@@ -1,0 +1,15 @@
+p {
+    color: brown;
+}
+
+h1 {
+    background-color: darkcyan;
+}
+
+h3 {
+    background-color: darkgrey;
+}
+
+h1 + h3 {
+    color: darkslategrey;
+}
